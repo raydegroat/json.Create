@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace jsonCreate
+namespace json.Create
 {
     class Employee
     {
-        public string FirstName = "Sam";
-        public string LastName = "Jackson";
-        public int employeeID = 5698532;
-        public string Designation = "Manager";
+        public string FIrstName;
+        public string LastName;
+        public int employeeID;
+        public string Designation;
     }
 }
