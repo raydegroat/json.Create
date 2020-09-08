@@ -8,9 +8,9 @@ namespace json.Create
 {
     class Employee
     {
-        public string FIrstName;
-        public string LastName;
-        public int employeeID;
-        public string Designation;
+        public string FIrstName = "Sam";
+        public string LastName = "Jackson";
+        public int employeeID = 5698523;
+        public string Designation = "Manager";
     }
 }
